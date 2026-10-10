@@ -119,7 +119,3 @@ This is an actively evolving setup. Planned work includes broader distro/version
 ## Contributing
 
 Contributions are welcome — new modules, additional packages, or compatibility fixes. Please keep new modules self-contained, idempotent, and consistent with the logging conventions in `lib/common.sh`.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
